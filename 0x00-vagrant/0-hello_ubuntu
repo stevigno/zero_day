@@ -1,0 +1,1 @@
+When the `uname` command is run without any option, it prints the kernel name of the current system. For example, the output may be "Linux" on an Ubuntu VM.
